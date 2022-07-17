@@ -1,3 +1,4 @@
+import './style/App.css'
 import React from "react";
 import SeasonDisplay from "./SeasonDisplay";
 import Spinner from "./Spinner";
